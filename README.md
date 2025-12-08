@@ -1,10 +1,10 @@
 # Portfolio Python 🐍
-Bienvenue sur mon espace public où je présente mes différents programmes en Python
+Bienvenue sur mon espace public où je présente mes différents programmes en Python.
 
 ---------------------------------------------------------------------------------------------------
 ## 🔧 Automatisation Systray
 Ce programme a été conçu pour **remplacer la fonctionnalité d’ajout de raccourcis dans la barre des tâches** qui existait sous Windows 10 mais a disparu avec Windows 11.  
-Il recrée un menu contextuel dynamique dans la zone de notification (systray), permettant d’accéder rapidement à tes fichiers et applications.  
+Il recrée un menu contextuel dynamique dans la zone de notification (systray), permettant d’accéder rapidement à des fichiers et des raccourcis.  
 
 ### Points forts
 - 📂 Gestion automatique de plusieurs dossiers.  
