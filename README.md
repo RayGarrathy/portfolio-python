@@ -3,7 +3,14 @@ Bienvenue sur mon espace public où je présente mes différents programmes en P
 
 ---------------------------------------------------------------------------------------------------
 ## 🔧 Automatisation Systray
-Ce programme crée un menu contextuel dynamique dans la barre système pour ouvrir automatiquement des raccourcis regroupés dans des sous-menus. Il gère plusieurs dossiers, ajoute des emoji adaptés à chaque catégorie et assure une fermeture propre sans erreurs.
+Ce programme a été conçu pour **remplacer la fonctionnalité d’ajout de raccourcis dans la barre des tâches** qui existait sous Windows 10 mais a disparu avec Windows 11.  
+Il recrée un menu contextuel dynamique dans la zone de notification (systray), permettant d’accéder rapidement à tes fichiers et applications.  
+
+### Points forts
+- 📂 Gestion automatique de plusieurs dossiers.  
+- 🖱️ Ouverture rapide des fichiers et raccourcis depuis le systray.  
+- 🎨 Icônes et emoji adaptés pour une expérience visuelle cohérente.  
+- ✅ Fermeture propre sans erreurs ni exceptions.
 
 ### 📸 Captures d’écran
 ![Menu Systray](images/Systray1.png)
