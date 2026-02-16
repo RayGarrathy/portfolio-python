@@ -20,9 +20,6 @@ L’application tourne discrètement dans la zone de notification (systray) et p
 ---
 
 ## 🖼️ Capture d’écran
-
-*(Insère ici ta capture d’écran de la notification toast)*
-
 Exemple :
 
 ![Mini-notif](../images/Surveillancedossier2.png)
