@@ -6,7 +6,7 @@ from watchdog.observers import Observer
 from winotify import Notification
 
 # Dossier réseau à surveiller
-DOSSIER_A_SURVEILLER = r"\\Alba\spr\PARTAGES\LARP\LARC\LARC_SUPPORT\RAPPORTS A VALIDER"
+DOSSIER_A_SURVEILLER = r""
 
 class Handler(FileSystemEventHandler):
     
