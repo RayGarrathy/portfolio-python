@@ -1,5 +1,5 @@
 # 👀📁 SurveillanceDossier
- – Agent Windows de surveillance de dossier réseau
+ Agent Windows de surveillance de dossier réseau
 
 SurveillanceDossier est un agent Windows léger développé en Python.  
 Il surveille en temps réel un dossier réseau et affiche une notification toast lorsqu’un nouveau fichier est créé.  
