@@ -26,7 +26,7 @@ L’application tourne discrètement dans la zone de notification (systray) et p
 Exemple :
 
 ![Menu notification](../images/Surveillancedossier.png)
-![Mini-notif](../images/surveillancedossier2.png)
+![Mini-notif](../images/Surveillancedossier2.png)
 
 ---
 
