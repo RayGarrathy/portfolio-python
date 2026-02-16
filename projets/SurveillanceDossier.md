@@ -28,6 +28,5 @@ Exemple :
 
 ---
 👉 [Voir le code source](py/surveillancedossier.py)
-[surveillancedossier.py](portfolio-python/projets/py/surveillancedossier.py)
 
 
