@@ -15,7 +15,7 @@ Il permet d’éviter les erreurs de calcul, d’accélérer la préparation des
 - Résultats clairs, immédiats et sans risque d’erreur
 
 
-## 🖼️ Exemple d’utilisation
+## 📸 Captures d’écran
 
 ![AideLabo](../images/aidelabo.png)
 
