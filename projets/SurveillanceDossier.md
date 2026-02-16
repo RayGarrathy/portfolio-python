@@ -19,7 +19,7 @@ L’application tourne discrètement dans la zone de notification (systray) et p
 
 ---
 
-## 🖼️ Capture d’écran
+## 📸 Captures d’écran
 Exemple :
 
 ![Mini-notif](../images/Surveillancedossier2.png)
