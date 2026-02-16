@@ -13,3 +13,4 @@ Il recrée un menu contextuel dynamique dans la zone de notification (systray), 
 ![Ouverture sous-menu](../images/Systray2.png)
 
 👉 [Voir le code source](py/systray.py)
+[systray.py](portfolio-python/projets/py/systray.py)
