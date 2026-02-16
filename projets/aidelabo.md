@@ -17,6 +17,7 @@ Il permet d’éviter les erreurs de calcul, d’accélérer la préparation des
 
 ## 🖼️ Exemple d’utilisation
 
+![AideLabo](../images/aidelabo.png)
 
 ---
 
