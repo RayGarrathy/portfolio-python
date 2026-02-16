@@ -19,5 +19,4 @@ Il permet d’éviter les erreurs de calcul, d’accélérer la préparation des
 
 ![AideLabo](../images/aidelabo.png)
 
----
-
+👉 [Voir le code source](py/aidelabo.py)
