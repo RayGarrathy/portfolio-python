@@ -27,6 +27,7 @@ Exemple :
 
 
 ---
-👉 [Voir le code source] projets/py/surveillancedossier.py
+👉 [Voir le code source](py/surveillancedossier.py)
+[surveillancedossier.py](portfolio-python/projets/py/surveillancedossier.py)
 
 
