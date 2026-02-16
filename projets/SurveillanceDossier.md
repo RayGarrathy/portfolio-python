@@ -27,7 +27,6 @@ Exemple :
 
 
 ---
-
-## 🧩 Architecture du projet
+👉 [Voir le code source](systray_1.py)
 
 
