@@ -28,5 +28,3 @@ Exemple :
 
 ---
 👉 [Voir le code source](py/surveillancedossier.py)
-
-
