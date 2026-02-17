@@ -1,4 +1,4 @@
-## BalancePrint - Automatisation de la récupération de pesées via RS232
+# BalancePrint - Automatisation de la récupération de pesées via RS232
 
 Ce projet modernise un ancien système de pesée basé sur une balance de laboratoire connectée à une imprimante à rouleau.
 L’objectif : intercepter la donnée RS232, déclenchée par l’imprimante, et l’envoyer automatiquement dans Excel via un script Python.
