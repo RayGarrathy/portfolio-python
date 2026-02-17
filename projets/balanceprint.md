@@ -34,6 +34,7 @@ La balance envoie la donnée via RS232.
 Le script Python lit la donnée et l’envoie automatiquement dans Excel.
 
 ## Schéma ASCII – Flux de fonctionnement
+
                    ┌──────────────────────────┐
                    │   Imprimante à rouleau   │
                    │        (bouton PRINT)    │
