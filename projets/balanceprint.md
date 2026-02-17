@@ -3,7 +3,7 @@
 Ce projet modernise un ancien système de pesée basé sur une balance de laboratoire connectée à une imprimante à rouleau.
 L’objectif : intercepter la donnée RS232, déclenchée par l’imprimante, et l’envoyer automatiquement dans Excel via un script Python.
 
-🎯 Objectifs du projet
+## 🎯 Objectifs du projet
 Comprendre et exploiter un protocole série ancien (DIN 9 broches + RS232)
 
 Intercepter un flux de données initialement destiné à une imprimante
@@ -12,7 +12,7 @@ Automatiser la récupération de pesées dans Excel
 
 Moderniser un équipement sans modifier son fonctionnement utilisateur
 
-⚙️ Fonctionnement du système
+##⚙️ Fonctionnement du système
 1) Configuration d’origine
 La balance est reliée à une imprimante à rouleau.
 
