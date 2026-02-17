@@ -6,4 +6,4 @@ Bienvenue sur mon espace public où je présente mes différents programmes en P
 - 🖨️ [BalancePrint](projets/balanceprint.md)
 - 🧪 [AideLabo](projets/aidelabo.md)
 - 🔧 [Automatisation Systray](projets/systray.md)
-- 👀📁 [SurveillanceDossier](projets/SurveillanceDossier.md)
+- 👀 [SurveillanceDossier](projets/SurveillanceDossier.md)
